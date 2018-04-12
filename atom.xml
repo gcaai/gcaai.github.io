@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>德中人工智能协会</title>
+  <icon>https://www.gravatar.com/avatar/731f5137ebc6eba1843169875341e9e0</icon>
+  
+  <link href="/zh/atom.xml" rel="self"/>
+  
+  <link href="https://www.gcaai.org/"/>
+  <updated>2018-03-25T12:45:08.000Z</updated>
+  <id>https://www.gcaai.org/</id>
+  
+  <author>
+    <name>GCAAI</name>
+    <email>contact@gcaai.org</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>News</title>
+    <link href="https://www.gcaai.org/2018/03/26/News/"/>
+    <id>https://www.gcaai.org/2018/03/26/News/</id>
+    <published>2018-03-25T18:45:08.000Z</published>
+    <updated>2018-03-25T12:45:08.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
